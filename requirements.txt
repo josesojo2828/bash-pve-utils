@@ -1,0 +1,4 @@
+# bash-pve-utils dependencies
+# Core functionality works with Python stdlib only (zero deps).
+# Optional: pyyaml enables YAML config support.
+# pyyaml>=6.0
